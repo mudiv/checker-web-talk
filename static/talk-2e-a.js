@@ -1,1 +1,2 @@
 
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1629099702",layout:"default",error:a,state:{app:{window:{width:b,height:b},menuSpace:b},domains:{domainToBeChecked:a,domains:{}},socialMedia:{currentUsernameToBeChecked:a,usernames:{}}},serverRendered:true,routePath:"\u002Fsocial-media-handle-checker",config:{app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}}}}(null,0));
